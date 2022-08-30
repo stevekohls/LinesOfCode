@@ -1,0 +1,28 @@
+# Interaction Diagram Checklist
+
+- [ ] Getting started
+    - [ ] Choose a drawing tool
+    - [ ] Pick a style
+    - [ ] Plan for sharing
+- [ ] Capture existing and documented functionality
+    - [ ] All screens, in low fidelity
+    - [ ] Happy-path navigation
+    - [ ] Back, cancel, and exit paths
+    - [ ] Async operations
+    - [ ] Waiting state indicators
+    - [ ] Error, retry, and cancel paths
+- [ ] Note what’s missing
+    - [ ] Add text in the diagram itself where you have questions
+    - [ ] Be explicit
+    - [ ] **Make it stand out!**
+- [ ] Ask questions
+    - [ ] Share the diagram with your entire team
+    - [ ] Itemize the issues (Jira, GitHub, etc)
+    - [ ] Call a meeting!
+- [ ] Get answers
+    - [ ] Follow up
+    - [ ] Don't make assumptions
+    - [ ] Engage your project manager
+- [ ] Fill in the blanks
+    - [ ] Document the answers by updating the diagram
+    - [ ] Empower your team to do the same
